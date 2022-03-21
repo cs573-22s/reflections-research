@@ -9,7 +9,7 @@ This paper explores the effectiveness of infographics and data comics in terms o
 ## Description of experiments: 
 
 1. The authors have created 3 different stories for lab studies. They have chosen stories which are comfortably presented on A3 paper and also stories which require little prior knowledge. 
-2. The three stories are on Energy, Alliacnes and Economics. The authors have tried to keep the level of complexity of all stories as same. All fpnts were made same as well.
+2. The three stories are on Energy, Alliances and Economics. The authors have tried to keep the level of complexity of all stories as same. All fpnts were made same as well.
 
 ## Hypotheses
 
