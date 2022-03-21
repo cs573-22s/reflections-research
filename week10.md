@@ -1,29 +1,12 @@
 Week 10
 ---
-Link: http://hint.fm/wind/
-
-<img src="https://github.com/ColdCode0214/pictures/blob/main/reflection-week7-2.png" width = "400" height = "250" alt="" align=center />
-
-<img src="https://github.com/ColdCode0214/pictures/blob/main/reflection-week7-3.png" width = "400" height = "250" alt="" align=center />
-
-<img src="https://github.com/ColdCode0214/pictures/blob/main/reflection-week7-1.png" width = "400" height = "250" alt="" align=center />
-
+Link: https://sites.stat.washington.edu/wxs/Visualization-papers/focusing-and-linking.pdf
 
 Introduction
 ---
-This website shows the real-time wind direction of America.
+This paper discusses two basic principles for interactive visualization of high dimensional data: focusing and linking. 
+The paper and the accompanying video give examples of how graphical data analysis methods based on foucusing and linking are used in applications including linguistics, geographic informetion systems, time series analysis, and the analysis of multi-channel images arising in radiology and remote sensing.
 
-
-Explanation
----
-- This chart use shows the real-time wind direction by using dynamic lines.
-- According the the legend on the left of the chart, the more dense the lines are, the higher the wind speeds are.
-- According to the chart now, in the south of America, like Houston, there is blowing north winds. 
-While in the east of America, like New York, there is blowing west winds
-- You can see the accurate wind speed and wind direction by moving your mouse to the corresponding position on the map.
-You can also click on the map to zoom in and see the detail information.
-- In addition, the website also show the maximum wind speed and the average wind speed on the left of the chart.
-You can also see the historical screenshot in the gallery
-
-
-  
+Focusing and linking are principles that offer a solution to the problem of visual overload. 
+Instead of maximizing the informetion in a single view, it is better to provide tools for quickly generating multiple views, each focussed on a different aspect of the data.
+Multiple views, however, should not be regarded partial information contained in individual views into a coherent image of the data as a whole. 
