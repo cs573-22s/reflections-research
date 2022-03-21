@@ -1,4 +1,4 @@
-# Week 7:
+# Week 10:
 
 My reflection for this week is [this paper](https://www.researchgate.net/profile/Benjamin-Bach/publication/331357753_Comparing_Effectiveness_and_Engagement_of_Data_Comics_and_Infographics/links/5cb859aaa6fdcc1d499cc3b1/Comparing-Effectiveness-and-Engagement-of-Data-Comics-and-Infographics.pdf). 
 
