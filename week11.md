@@ -1,0 +1,9 @@
+Week 11 Reflection - Show Me: Automatic Presentation for Visual Analysis
+--
+Tableau has already provided a great interaction for people to generate certain types of plots. However, in order to make an advancement on the existing project, a group of researchers came up with a new framework: Show Me to make the visualization process more automatic utilizing Tableau's VizQL. It  includes the automatic selection of mark types, a command to add a single field to a view, and a pair of commands to build views for multiple fields. [Read the article here.](https://ieeexplore.ieee.org/abstract/document/4376133?casa_token=O0N-T9IniNYAAAAA:-KNHhIYfZA9xASzFIyIB30xui-1877BPosJu57mh1Yhz2VsQgP_jSMAQUmcA26JpLCLr1ngu)
+
+This paper describes Show Me, an integrated set of user interface commands and defaults that incorporate automatic presentation into a commercial visual analysis system called Tableau. A key aspect of Tableau is VizQL, a language for specifying views, which is used by Show Me to extend automatic presentation to the generation of tables of views (commonly called small multiple displays). A key research issue for the commercial application of automatic presentation is the user experience, which must support the flow of visual analysis. User experience has not been the focus of previous research on automatic presentation. The Show Me user experience includes the automatic selection of mark types, a command to add a single field to a view, and a pair of commands to build views for multiple fields. Although the use of these defaults and commands is optional, user interface logs indicate that Show Me is used by commercial users.
+
+<div style="text-align:center">
+<img src="./images/week11-1.JPG" />
+</div>
