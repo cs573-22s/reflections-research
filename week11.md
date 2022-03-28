@@ -1,0 +1,7 @@
+The paper "Tidy Data" by Hadley Wickham describes a framework for tidying datasets such that they are easier to manipulate, model, and visualize. Tidy datasets have a structure where "each variable is a column, each observation is a row, and each type of observational unit is a table". These are the three characteristics of a tidy dataset as defined by Hadley, who observes that this format makes it easy for a computer to extract variables because it defines a standard dataset structure. It also ensures that "values of different variables from the same observation are always paired." 
+
+Hadley also identifies the five most common problems with messy datasets and how to fix them. These problems include column headers used as values instead of variable names and multiple types of observational units stored in the same table. Hadley states that most messy datasets can be tidied using three tools: melting, string splitting, and casting. He also goes on to define tidy tools, which input and output tidy datasets. 
+
+I found this paper helpful because it gave me a well-defined idea of what tidy data is and how to convert a messy dataset into a tidy one. I had not previously considered what makes a dataset easy to manipulate, generally using intuition and working case-by-case to make datasets easier to use. I will use what I learned from this paper to make my datasets more consistently structured. 
+
+Link: http://vita.had.co.nz/papers/tidy-data.pdf
