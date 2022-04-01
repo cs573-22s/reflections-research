@@ -1,0 +1,9 @@
+Jurrasic Mark: Inattentional Blindness for a Datasaurus Reveals that Visualizations are Explored,not Seen
+
+Graphs have the ability to effectively communicate and heighten the visual system's ability to extract patterns out of data. A group of researchers have conducted a experiment to display inattentional blindness. Inattentional blindness is when people can miss suprisingly salient real world objects within otherwise simple scenes. In another related work researchers memtioned an experiment where people forgot to notice a person in full gorilla outift walking between crowd of people passing basketballs. This researchers conducted two experiments where they presented a 7 scatter plots plots for 5 trials in two intervals 1s and 2.5s with a gap of 250ms between each plot. Out of which in two trials randomly a dinosaur shaped dots were instilled in one of the graphs 
+Experiment-1a: In this experiment the people were told to focus on blue X's and based on the percepetual psychology literature it was assumed that this would cause sufficient inhibition of the other marks that participants would fail to notice the dinosaur shape
+And their assumptions were right as for 1s and 2.5s in which 93% & 61% failed to see the dinosaur 
+Experiment-1b:
+In thie experiment people were asked to look at the plots without any preconditions. And after the trial they were asked if they noticed any trends and whether they saw a dinosaur or gorilla
+For the 2nd experiment they've noticed for 1s and 2.5s 25% of the 10% missed the dinosaur.
+This tells us there was a significant relation between the rate of missing  the dinosaur  and the task type. This tells us that viewers need to be guided towards the right pattern in a communication pattern, if not there is a high chance that important information can be missed.
