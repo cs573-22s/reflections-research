@@ -17,7 +17,7 @@ This paper is about illustrative parallel coordinates. It is a technique used to
 5. Distribution along an axis are shown as quadrilateral strips which  also provide per cluster histogram
 
 ## Features
-1. Sulhouetts
+1. Silhouetts
 2. Shadows
 3. Histograms
 4. Density plot
