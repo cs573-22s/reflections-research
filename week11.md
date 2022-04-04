@@ -1,0 +1,3 @@
+https://eprints.whiterose.ac.uk/77640/7/uncert.pdf
+
+I like this paper because it explores different approaches of visualizing uncertainty within data. It also discusses how visualizations can create uncertainty in the way data  is presented. All in all, the research paper demonstrates that visualizing and explaining uncertainty can be hard because one would be dealing with the unknown. However, the authors make it clear that we shouldn't leave it at that and that we should all aim to find ways to visualize uncertainty in effective ways. For this reason, this topic is still open to new discoveries and further research.
