@@ -8,6 +8,7 @@ Animated representations of outcomes drawn from distributions (hypothetical outc
 HOPs greatly improve multivariate probability estimation over conventional static uncertainty visualizations and leverage the ability of the visual system to quickly, 
 accurately, and automatically process the summary statistical properties of ensembles. 
 However, it is unclear how well HOPs support applied tasks resembling real world judgments posed in uncertainty communication. 
+
 We identify and motivate an appropriate task to investigate realistic judgments of uncertainty in the public domain through a qualitative analysis of uncertainty visualizations in the news. 
 We contribute two crowdsourced experiments comparing the effectiveness of HOPs, error bars, and line ensembles for supporting perceptual decision-making from visualized uncertainty. 
 Participants infer which of two possible underlying trends is more likely to have produced a sample of time series data by referencing uncertainty visualizations which depict the two trends with variability due to sampling error. 
