@@ -1,0 +1,3 @@
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/ev.20065?casa_token=7dHjwPf3bv8AAAAA:a-4-pLAEw86PimgrWdufmQXxh2Da6CCyjOHEG_kGQ2jV6Hf6JQHlCNkdRROW-XBvJF9Ljdy3qAe6rqY
+
+This chapter elaborates on the definition of data visualization, highlights its historical development, and offers examples of how data visualization has been used in evaluations to help aid understanding, collect data and information, conduct analysis, and communicate to a variety of stakeholders. This chapter also outlines future trends in data visualization and their potential influence on evaluation practice. The chapter concludes with some of the main limitations and cautions that are associated with data visualization. © Wiley Periodicals, Inc., and the American Evaluation Association.
