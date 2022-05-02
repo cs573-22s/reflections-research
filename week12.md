@@ -1,0 +1,10 @@
+([Source](https://aip.scitation.org/doi/pdf/10.1063/1.4822401))
+
+# How Not to Lie with Visualization
+# Bernice E. Rogowitz and Lloyd A. Treinish
+
+## Summary
+While this paper was written in 1996, its contents are still extremely relevant to modern data visualization. The authors make a point that while a host of visualization techniques are available, allowing analysts to plot at least eight dimensions of information, using these techniques inappropriately can cause accidental or intentional misinterpretation of results. In this summary, I'll focus on the accidental misinterpretation instead of getting into the ethics of the intentional side of data visualization misuse. The paper touches on how researchers may not be aware of underlying biases that certain colors cause, such as red signifying bad and green signifying good. While a lot of programs and tools provide default color packages, these packages may not take into consideration the psychological perceptions of the colors it implements. Authors caution researchers to be deliberate in the color schemes they choose. Due to these points, the authors recommend moving away from a tool-based approach for data visualization to a rule-based approach, ensuring that researchers have specific reasons and guidelines for the choices they are making.
+
+## Takeaways
+As is typical with most things in life, just because you _can_ do something, doesn't mean you _should_ do it. While on the surface it does not seem like making assumptions or uninformed choices for a visualization of data could cause lasting problems, this can get more serious depending on the domain. Doctors who are using visualizations to guide a diagnosis or surgery can make fatal mistakes if they misinterpret the data, especially do to causes out of their control, such as color schemes. Therefore, researchers visualizing their data should take care in their decision on how to visualize it, along with checking with others inside and outside of their domain for their interpretations to ensure the message the visualization sends is the one they mean to convey. 
