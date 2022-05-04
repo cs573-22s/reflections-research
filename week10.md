@@ -1,0 +1,6 @@
+https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/?noredirect=on&utm_term=.24d2a1a24203 
+
+This is a visualization from Washington Post on tracking how many children have been exposed to gun violence during school hours since the Columbine High massacre in 1999. In the circle plot, each dot represents 10 children exposed to gun violence. While school shootings remain rare, there have been more in 2021. The count now stands at more than 300,000 children at 320 schools. The Post has found that at least 163 children, educators and other people have been killed in assaults, and another 366 have been injured. 
+
+On the second graph, it showed that in cases where the source of the gun could be determined, more than 85 percent of shooters brought them from their own homes or obtained them from friends or relatives, according to The Post’s analysis. 
+The ranks of school shooters include a 6-year-old boy, who killed a classmate after saying he didn’t like her, and a 15-year-old girl, who did the same to a friend for rejecting her romantic overtures. Seven in 10 of them, however, were under the age of 18, which means that — often because of an adult’s negligence — dozens of children had access to deadly weapons.
