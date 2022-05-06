@@ -4,8 +4,8 @@ Link: http://bth.diva-portal.org/smash/get/diva2:1486553/FULLTEXT02.pdf
 
 Introduction
 ---
-Evaluation of Data Visualization methods is a major challenge within the software and other industries. 
-With complex data and requirements, often organizations require effective visualization methods which impact business decisions and convince stakeholders. 
+This is a quite long paper which talks about evaluation of data visualization methods. 
+Due to the complex data and requirements, organizations often require effective visualization methods which impact business decisions and convince stakeholders. 
 This is a similar challenge in the development of a software
 demonstrator for the innovative safety radar system at ABB Jokab Safety whose aim
 is to improve the detection reliability using multiple radar sensors and requires an
